@@ -1,0 +1,2 @@
+# recognizing-number-showed-by-fingers
+recognize number showed by fingers using deep learning pytorch (CNN model). i used 3 kind of model: one overfited, another one underfitted and the optimal modal between them, i also used different learning rates and batch sizes and i have reported the results of them. i used to show different kind of models and their results. it also has some problems, i would be happy if you guys help to fix them
